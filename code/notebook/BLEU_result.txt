@@ -1,0 +1,4 @@
+model_name source_lang target_lang bleu_score
+
+facebook/nllb-200-distilled-600M en de 0.5601428094512584
+Helsinki-NLP/opus-mt-en-cs en cs 64.19342226467317
