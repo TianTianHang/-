@@ -1,4 +1,7 @@
 model_name source_lang target_lang bleu_score
-
-facebook/nllb-200-distilled-600M en de 0.5601428094512584
-Helsinki-NLP/opus-mt-en-cs en cs 64.19342226467317
+Helsinki-NLP/opus-mt-en-cs en cs 32.58458382475421
+google-t5/t5-large en de 42.821066256160776
+facebook/mbart-large-50-many-to-many-mmt en de 44.65698031455848
+facebook/nllb-200-distilled-600M en de 44.75055716583148
+facebook/nllb-200-distilled-1.3B en de 45.37946076442841
+jbochi/madlad400-3b-mt en de 48.32562066513895
